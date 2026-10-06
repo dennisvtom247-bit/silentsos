@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067045655787",
+    "project_id": "silentsos-e182b",
+    "storage_bucket": "silentsos-e182b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067045655787:android:37b887b5b694ebac6c5aae",
+        "android_client_info": {
+          "package_name": "com.silentsos.silentsos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfrgPMQXBO-H5mWKVwXofpRiDY3JRh5Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
